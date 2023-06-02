@@ -1,0 +1,19 @@
+
+.button{
+   border-radius: 10px;
+   background-color: black;
+   color: white;
+   height: 40px;
+   width: 120px;
+   cursor: pointer;
+   margin: 6% 45%;
+}
+.display{
+  margin: 0% 45%;
+  color: rgb(18, 86, 88);
+}
+.head{
+  text-align: center;
+  border-bottom: 40px;
+}
+
